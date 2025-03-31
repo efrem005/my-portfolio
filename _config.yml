@@ -2,4 +2,4 @@ title: Cayman theme
 description: Портфолио студента Netology — Frontend-разработчик
 show_downloads: false
 google_analytics: Ефремов Николай
-theme: pages-themes/slate@v0.2.0
+theme: theme: jekyll-theme-slate
