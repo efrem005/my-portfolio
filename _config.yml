@@ -1,5 +1,5 @@
 title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+description: Портфолио студента Netology — Frontend-разработчик
+show_downloads: false
 google_analytics: Ефремов Николай
-theme: jekyll-theme-cayman
+theme: pages-themes/slate@v0.2.0
